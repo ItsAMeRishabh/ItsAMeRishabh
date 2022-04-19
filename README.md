@@ -5,6 +5,8 @@
 
 ### <div align="center">I'm Rishabh, a Gamer 🎮, Content Creator 🖥️ and an aspiring Game Designer!!🧠</div>  
   
+  <br>
+  <br>
 
 - 🔭 I’m currently working on [Mini Knight](https://github.com/ItsAMeRishabh/MiniKnightProject). A 2D, PVP, Multiplayer platformer game.  
   
