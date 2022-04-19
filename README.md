@@ -1,11 +1,5 @@
 # Namaste, I'm Rishabh 👋
 
-[![YouTube Channel Subscribers](httpsimg.shields.ioyoutubechannelsubscribersUCDCHcqyeQgJ-jVSd6VJkbCwlogo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](httpsimg.shields.iowebsitelabel=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](httpscodestackr.com)
-[![Twitter Follow](httpsimg.shields.iotwitterfollowcodeSTACKrcolor=1DA1F2&logo=twitter&style=for-the-badge)](httpstwitter.comintentfolloworiginal_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-[![Visual Studio Marketplace Rating (Stars)](httpsimg.shields.iovisual-studio-marketplacestarscodestackr.codestackr-themelabel=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](httpsmarketplace.visualstudio.comitemsitemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](httpsimg.shields.iobadge-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svgcolorB=ff652f&style=for-the-badge)](httpsvsCodeHero.com)
 
 
 ## I'm a Gamer and an aspiring Game Designer!!
