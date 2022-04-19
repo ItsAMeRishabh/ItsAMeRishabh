@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishabh, a Gamer 🎮, Content Creator 🖥️ and an aspiring Game Designer!!🧠</div>  
+### <div align="center">I'm a Gamer 🎮, Content Creator 🖥️ and an aspiring Game Designer!!🧠</div>  
   
   <br>
 
