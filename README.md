@@ -1,3 +1,5 @@
+# <div align="center">Namaste! I'm Rishabh.</div>
+
 <div align="center">
 <img src="https://github.com/ItsAMeRishabh/ItsAMeRishabh/blob/main/pf_mario.gif" align="center" style="width: 80%" />
 </div>  
