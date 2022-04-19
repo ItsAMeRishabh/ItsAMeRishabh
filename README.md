@@ -22,10 +22,8 @@
 
 
 ## My Skill Set  
+<br>
 <table><tr><td valign="top" width="33%">
-
-<br>
-<br>
 
 ### Programming Languages  
 <div align="center">  
