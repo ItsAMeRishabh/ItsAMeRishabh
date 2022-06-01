@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Mini Knight](https://github.com/ItsAMeRishabh/MiniKnightProject). A 2D, PVP, Platform Fighter game.  
   
 
-- 🌱 I’m currently learning Unity, Unreal & Dungeondraft  
+- 🌱 I’m currently learning Unity, Adobe Flash & Dungeondraft  
   
 
 - ⚡ Fun fact I love speedrunning games. Can't say I'm good at them though 😅  
