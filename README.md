@@ -9,7 +9,7 @@
   
   <br>
 
-- 🔭 I’m currently working on [Mini Knight](https://github.com/ItsAMeRishabh/MiniKnightProject). A 2D, PVP, Multiplayer platformer game.  
+- 🔭 I’m currently working on [Mini Knight](https://github.com/ItsAMeRishabh/MiniKnightProject). A 2D, PVP, Platform Fighter game.  
   
 
 - 🌱 I’m currently learning Unity, Unreal & Dungeondraft  
