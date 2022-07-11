@@ -9,7 +9,7 @@
   
   <br>
 
-- 🔭 I’m currently working on [Mini Knight](https://github.com/ItsAMeRishabh/MiniKnightProject). A 2D, PVP, Platform Fighter game.  
+- 🔭 I’m currently working on [Cyber Spin](https://github.com/ItsAMeRishabh/CyberSpin). A 2D, Platform-Puzzle game.  
   
 
 - 🌱 I’m currently learning Unity, Adobe Flash & Dungeondraft  
