@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Cyber Spin](https://github.com/ItsAMeRishabh/CyberSpin). A 2D, Platform-Puzzle game.  
   
 
-- 🌱 I’m currently learning Unity, Adobe Flash & Dungeondraft  
+- 🌱 I’m currently learning Blender & DungeonDraft
   
 
 - ⚡ Fun fact I love speedrunning games. Can't say I'm good at them though 😅  
