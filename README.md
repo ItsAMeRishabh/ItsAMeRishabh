@@ -9,7 +9,7 @@
   
   <br>
 
-- 🔭 I’m currently working on [Cyber Spin](https://github.com/ItsAMeRishabh/CyberSpin). A 2D, Platform-Puzzle game.  
+- 🔭 I’m currently working on [Crossword Tetris](https://github.com/ItsAMeRishabh/Crossword_Tetris). A crossword game for mobile devices.  
   
 
 - 🌱 I’m currently learning Blender & DungeonDraft
