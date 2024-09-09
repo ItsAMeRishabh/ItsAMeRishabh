@@ -9,7 +9,7 @@
   
   <br>
 
-- 🔭 I’m currently working on [Crossword Tetris](https://github.com/ItsAMeRishabh/Crossword_Tetris). A crossword game for mobile devices.  
+- 🔭 I’m currently working on Ice Cream Match! A dots connect, ice cream parlor game for mobile devices.  
   
 
 - 🌱 I’m currently learning Blender & DungeonDraft
