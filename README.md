@@ -39,7 +39,7 @@
 
 ### Game Engines  
 <div align="center">  
-<img style="margin: 10px" src="[https://yt3.ggpht.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj](https://www.svgrepo.com/show/331626/unity.svg)" alt="Unity" height="50" />
+<img style="margin: 10px" src="https://www.svgrepo.com/show/331626/unity.svg" alt="Unity" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
